@@ -1,0 +1,30 @@
+{
+  "name": "test-npm-package-project",
+  "version": "1.0.0",
+  "description": "testing my oss lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/miguevelasquez1/test-npm-package-project.git"
+  },
+  "type": "module",
+  "keywords": [
+    "oss",
+    "library",
+    "test",
+    "project",
+    "miguevelasquez1"
+  ],
+  "author": "Miguel Velasquez <miguelve.dev@gmail.com> (http://miguel-velaquez.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguevelasquez1/test-npm-package-project/issues"
+  },
+  "homepage": "https://github.com/miguevelasquez1/test-npm-package-project#readme",
+  "dependencies": {
+    "miguevelasquez1-npm-package-test": "1.0.0"
+  }
+}
